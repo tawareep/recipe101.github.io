@@ -25,6 +25,29 @@ body {
     padding-bottom: 10px;
   }
 
+.huakor1 {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
+
+  .show2 a {    
+    background-color: #ffffffbf; 
+    color: black;     
+    padding: 10px;   
+    color: rgb(0, 0, 0);    
+    font-size: 50px;
+    text-decoration: none;
+  }
+  
+  .show2 a:hover {
+    background-color: #007d0abf;
+    color: white;
+  }
+
   .show a {    
     background-color: white; 
     color: black;     
