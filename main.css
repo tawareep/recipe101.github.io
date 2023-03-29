@@ -1,0 +1,161 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .recipe {
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 20px;
+  }
+    
+  img {
+    max-width: 100%;
+  }
+  
+  .ingre {
+    margin: 40px;
+    
+  }
+
+  .huakor {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  .show a {    
+    background-color: white; 
+    color: black;     
+    padding: 4px;   
+    color: rgb(0, 0, 0);    
+    font-size: 30px;
+    text-decoration: none;
+  }
+  
+  .show a:hover {
+    background-color: #007d0abf;
+    color: white;
+  }
+
+  .show1 a {    
+    background-color: white; 
+    color: black;     
+    padding: 4px;   
+    color: rgb(0, 0, 0);    
+    font-size: 20px;
+    text-decoration: none;
+  }
+  
+  .show1 a:hover {
+    background-color: #007d0abf;
+    color: white;
+  }
+
+  .header {
+    background: #0b9b09;
+    padding: 35px 0px;
+    padding-bottom: 35px;
+    position: fixed;
+    top: 0px;
+    width: 100%;    
+  }
+
+  .maintext {
+    padding-top: 150px;
+  }
+
+  .logo a {
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 40px;
+    margin: 30px;
+    text-decoration: none;
+  }
+
+  .cata {
+    
+    padding-top: 10px;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .linkback c {    
+    font-size: 18px;
+    color: #7c7c7c;
+    text-decoration: none;
+  }
+
+  .linkback a {    
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .linkback1 a {    
+    left: 50px;
+    padding-top: 20px;
+    font-size: 18px;
+    color: #000000;
+    text-decoration: none;
+  }
+
+  .linkback0 a {    
+    padding-top: 20px;
+    font-size: 18px;
+    color: #7c7c7c;
+    text-decoration: none;
+  }
+
+  .image0 {    
+    border: thick double #0e9117;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+  }
+
+  .image1 {    
+    width: 600px;
+    height: 295px;
+    border: thick double #0e9117;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+
+  .image2 {    
+    width: 350px;
+    height: 350px;
+    border: thick double #0e9117;
+    margin-left: auto;
+    margin-right: auto;    
+  }
+
+  .InDi {
+    font-size: 30px;
+    padding-top: 20px;    
+    padding-left: 200px;
+  }
+
+  .text1 {
+    font-size: 20px;
+    padding-top: 20px;    
+    padding-left: 250px;
+  }
+
+  .text2 {
+    font-size: 20px;
+    padding-top: 20px;    
+    padding-left: 250px;
+    padding-bottom: 50px;
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #0b9b09;
+    color: white;
+  }
